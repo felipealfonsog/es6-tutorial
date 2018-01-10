@@ -153,7 +153,7 @@ const banks = [
     function banksClientsTaxNumbers() {
         // CODE HERE
     
-    
+     
     
     }
      
