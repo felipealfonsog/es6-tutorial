@@ -140,6 +140,18 @@ app.delete('/api/todos/:todo', function(reqm res) {
 })
 
 // vista of every aspect of the detailed form .		// Escucha en el puerto 8080 y corre el server
+// app.listen(8080, function() {
+// 	console.log('App listening on port 8080');
+// });
+
+
+
 app.listen(8080, function() {
-	console.log('App listening on port 8080');
+	 console.log('App is listening on port 8080');
 });
+
+
+
+// hte whole code was created by FElipe Alfonso gonzale z (soft engineer - felipe.dev.engr.js@gmail.com )
+// cc2018 
+	
